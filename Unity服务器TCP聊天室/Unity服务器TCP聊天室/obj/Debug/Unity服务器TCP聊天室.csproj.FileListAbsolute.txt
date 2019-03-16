@@ -1,0 +1,7 @@
+E:\C#\Unity服务器TCP聊天室\Unity服务器TCP聊天室\bin\Debug\Unity服务器TCP聊天室.exe.config
+E:\C#\Unity服务器TCP聊天室\Unity服务器TCP聊天室\bin\Debug\Unity服务器TCP聊天室.exe
+E:\C#\Unity服务器TCP聊天室\Unity服务器TCP聊天室\bin\Debug\Unity服务器TCP聊天室.pdb
+E:\C#\Unity服务器TCP聊天室\Unity服务器TCP聊天室\obj\Debug\Unity服务器TCP聊天室.csprojAssemblyReference.cache
+E:\C#\Unity服务器TCP聊天室\Unity服务器TCP聊天室\obj\Debug\Unity服务器TCP聊天室.csproj.CoreCompileInputs.cache
+E:\C#\Unity服务器TCP聊天室\Unity服务器TCP聊天室\obj\Debug\Unity服务器TCP聊天室.exe
+E:\C#\Unity服务器TCP聊天室\Unity服务器TCP聊天室\obj\Debug\Unity服务器TCP聊天室.pdb
